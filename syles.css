@@ -1,0 +1,30 @@
+.gradient{
+    background: rgb(36,75,170);
+    background: linear-gradient(90deg, rgba(36,75,170,1) 0%, rgba(181,214,236,1) 36%, rgba(216,239,252,1) 68%, rgba(100,136,153,1) 100%);
+
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+}
+
+/*
+#pepe{
+    background-color: black;
+    width: 50%
+}
+*/
+.home-image{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+    padding: 2%;
+
+}
+
+#main-name{
+    font-size: 6vh;
+    font-family: 'Manrope', sans-serif;
+    display: inline-block;
+    margin-top: 100px;
+}
